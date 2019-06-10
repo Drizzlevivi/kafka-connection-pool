@@ -1,0 +1,1 @@
+基于commons-pool2实现的kafka连接池
